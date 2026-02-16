@@ -4,3 +4,4 @@ PDF texts are in the repository files, links to other texts are provided here in
 
 1) Paper "TPC track denoising and recognition using convolutional neural networks": [doi.org/10.1016/j.cpc.2025.109608](https://doi.org/10.1016/j.cpc.2025.109608)
 2) Three introductory texts about metric spaces written for the mathematical correspondence seminar PraSe (MKS) are located on [prase.cz](https://prase.cz) as Seriál 2025/26 (edition 45)
+3) A paper building on top of my bachelor thesis is being written 
